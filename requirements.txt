@@ -1,5 +1,1 @@
 """Eseteselase Berhanu using app Diango"""
-Django==3.0.9
-djangorestframework>=3.9.0,<=3.11.0
-
-flake8>=3.6.0,<3.8.3
